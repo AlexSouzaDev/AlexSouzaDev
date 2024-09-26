@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AlexSouzaDev
+- 👀 I’m interested in learning everything about coding
+- 🌱 I’m currently learning front-end web development 
+- 💞️ I’m looking to collaborate on everything but especially on front-end
+- 📫 To reach me u can go with my email ("alexsouzadev@gmail.com") or discord ("oreqyi")
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: 18 years old, first time in the world of code, but playing since 4 years old on pc
