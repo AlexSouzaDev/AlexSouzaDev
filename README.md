@@ -2,7 +2,8 @@
 
 **back-end developer**
 
-## Logically existing in this world since 2005, with the ambition of being the solution to as many problems as possible, studying Systems and Network Programming at UA in Portugal.
+## logically existing in this world since 2005, with the ambition of being the solution to as many problems as possible.
+Studying Systems and Network Programming at UA in Portugal.
 ---
 
 ### 🤖 Linguagens e Tecnologias
