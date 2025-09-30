@@ -1,12 +1,19 @@
-# Alex Souza
+# `Alex Souza`
 
 **back-end developer**
 
-## logically existing in this world since 2005, with the ambition of being the solution to as many problems as possible.
+➨ I’m currently working on building a full-stack market for IOS devices
+
+➨ I’m looking to collaborate on everything that your A.I couldn’t do it
+
+➨ I’m currently learning to transform caffeine addition in clean code
+
+➨ Still a student but i do know what you need ⚝
+
 Studying Systems and Network Programming at UA in Portugal.
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Skills
 <img 
     align="left" 
     alt="Python" 
