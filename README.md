@@ -1,6 +1,6 @@
 # `Alex Souza`
 
-**back-end developer**
+**full-stack developer**
 
 ➨ I’m currently working on building a full-stack market for IOS devices
 
