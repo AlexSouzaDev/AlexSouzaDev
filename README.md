@@ -4,7 +4,7 @@
 
 <br/>
 
-# `Alex Souza`
+## Alex De Souza
 
 **Full-Stack Developer · CTO @ ImpulsoLead**
 
