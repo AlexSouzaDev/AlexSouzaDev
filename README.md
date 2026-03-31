@@ -8,7 +8,7 @@
 
 **Full-Stack Developer · CTO @ ImpulsoLead**
 
-➨ Building [ImpulsoLead](https://impulsolead.com) — AI-powered B2B SaaS for real estate agents in 🇧🇷 Brazil
+➨ CTO for [ImpulsoLead](https://impulsolead.com) — AI-powered B2B SaaS for real estate agents in 🇧🇷 Brazil
 
 ➨ Shipping AI agents, ad automation & lead management with Next.js + Claude SDK
 
