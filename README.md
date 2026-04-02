@@ -174,10 +174,6 @@ Studying Systems and Network Programming at UA in Portugal 🇵🇹
     src="https://cdn.simpleicons.org/anthropic/D4841A" 
 />
 
-<br/>
-<br/>    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
-/>
 <img 
     align="left" 
     alt="HTML"
