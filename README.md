@@ -4,7 +4,7 @@
 
 <br/>
 
-## Alex De Souza
+## Alex DeSouza
 
 **Full-Stack Developer · CTO @ ImpulsoLead**
 
