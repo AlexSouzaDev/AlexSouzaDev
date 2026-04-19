@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://impulsolead.com"><img alt="Website" src="https://img.shields.io/badge/impulsolead.com-D4841A?style=flat-square&logoColor=white&labelColor=111111"></a>
   <a href="https://www.linkedin.com/in/alexandre-de-souza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex_De_Souza-D4841A?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"></a>
-  <a href="mailto:contact@alexsouza.dev"><img alt="Email" src="https://img.shields.io/badge/Email-alex@impulsolead.com-D4841A?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"></a>
+  <a href="mailto:contact@alexsouza.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@alexsouza.dev-D4841A?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"></a>
 </p>
 
 ---
