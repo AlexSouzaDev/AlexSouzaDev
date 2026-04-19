@@ -1,251 +1,129 @@
 <p align="center">
-  <img src="github-profile-card.svg" alt="Alex Souza - Full-Stack Developer & CTO @ ImpulsoLead" width="100%" />
+  <img src="./github-profile-card.svg" alt="Alex DeSouza · Full-Stack Developer & AI Engineer · Founder @ ImpulsoLead" width="100%" />
 </p>
 
-<br/>
+<h1 align="center">Alex DeSouza</h1>
 
-## Alex DeSouza
+<p align="center">
+  <strong>Full-Stack Developer & AI Engineer · Founder @ ImpulsoLead</strong><br/>
+  Claude SDK · Next.js · SaaS · Microsoft & IBM & NASA Certified<br/>
+  ESTGA · Universidade de Aveiro 🇵🇹
+</p>
 
-**Full-Stack Developer · CTO @ ImpulsoLead**
-
-➨ CTO for [ImpulsoLead](https://impulsolead.com) — AI-powered B2B SaaS for real estate agents in 🇧🇷 Brazil
-
-➨ Shipping AI agents, ad automation & lead management with Next.js + Claude SDK
-
-➨ Turning caffeine into production-grade code since before it was cool ☕
-
-➨ Microsoft Certified · IBM Gen AI · Duke MLOps — still a student, still shipping ⚝
-
-Studying Systems and Network Programming at UA in Portugal 🇵🇹
+<p align="center">
+  <a href="https://impulsolead.com"><img alt="Website" src="https://img.shields.io/badge/impulsolead.com-D4841A?style=flat-square&logoColor=white&labelColor=111111"></a>
+  <a href="https://www.linkedin.com/in/alex-desouza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex_DeSouza-D4841A?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"></a>
+  <a href="mailto:alex@impulsolead.com"><img alt="Email" src="https://img.shields.io/badge/Email-alex@impulsolead.com-D4841A?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"></a>
+</p>
 
 ---
 
-### 🤖 Tech Skills
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Redis" 
-    title="Redis"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Prisma" 
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="tRPC" 
-    title="tRPC"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/trpc/D4841A" 
-/>
-<img 
-    align="left" 
-    alt="Clerk" 
-    title="Clerk"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/clerk/D4841A" 
-/>
-<img 
-    align="left" 
-    alt="BullMQ" 
-    title="BullMQ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/bull/D4841A" 
-/>
-<img 
-    align="left" 
-    alt="Anthropic / Claude SDK" 
-    title="Anthropic / Claude SDK"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/anthropic/D4841A" 
-/>
+## About
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+I build AI-powered B2B SaaS for the Brazilian real estate market.
 
-<br/>
-<br/>
+- 🚀 **Founder & CTO** at [ImpulsoLead](https://impulsolead.com), an AI agent platform that generates ads, captures leads, and qualifies them automatically for real estate agents.
+- 🤖 Shipping production systems on the **Anthropic Claude SDK**, **Next.js App Router**, **tRPC**, **Prisma**, and **BullMQ**.
+- 🎓 Studying **Systems and Network Programming** at ESTGA, Universidade de Aveiro.
+- 🇵🇹 Based near Aveiro, Portugal. Fluent in Portuguese and English.
+- ☕ Turning caffeine into production-grade code.
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top"><strong>Frontend</strong></td>
+    <td>
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=D4841A">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=D4841A">
+      <img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=D4841A">
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=D4841A">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Backend & Data</strong></td>
+    <td>
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=D4841A">
+      <img alt="tRPC" src="https://img.shields.io/badge/tRPC-111111?style=flat-square&logo=trpc&logoColor=D4841A">
+      <img alt="Prisma" src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=D4841A">
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=D4841A">
+      <img alt="pgvector" src="https://img.shields.io/badge/pgvector-111111?style=flat-square&logo=postgresql&logoColor=D4841A">
+      <img alt="Redis" src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=D4841A">
+      <img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-111111?style=flat-square&logoColor=D4841A">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>AI & ML</strong></td>
+    <td>
+      <img alt="Anthropic" src="https://img.shields.io/badge/Claude_SDK-111111?style=flat-square&logo=anthropic&logoColor=D4841A">
+      <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square&logoColor=D4841A">
+      <img alt="RAG" src="https://img.shields.io/badge/RAG-111111?style=flat-square&logoColor=D4841A">
+      <img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-111111?style=flat-square&logoColor=D4841A">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Auth & Payments</strong></td>
+    <td>
+      <img alt="Clerk" src="https://img.shields.io/badge/Clerk-111111?style=flat-square&logo=clerk&logoColor=D4841A">
+      <img alt="Stripe" src="https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=D4841A">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>DevOps & Tooling</strong></td>
+    <td>
+      <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=D4841A">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=D4841A">
+      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=D4841A">
+      <img alt="Azure" src="https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=D4841A">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Languages</strong></td>
+    <td>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=D4841A">
+      <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=D4841A">
+      <img alt="C#" src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=D4841A">
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=D4841A">
+      <img alt="Java" src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=D4841A">
+    </td>
+  </tr>
+</table>
+
+---
+
+## Certifications
+
+| Issuer | Certification |
+| :--- | :--- |
+| 🟦 **Microsoft** | Full-Stack Developer Professional |
+| 🟦 **Microsoft** | Cybersecurity Analyst |
+| 🔵 **IBM** | Generative AI for Growth Marketing |
+| 🟣 **Duke University** | MLOps · Machine Learning Operations |
+| 🚀 **NASA** | Open Science 101 |
+| 🎓 **University of London** | Essential Mathematics for Computer Science |
+| 🏔️ **University of Colorado Boulder** | The Structured Query Language (SQL) |
+
+---
+
+## Currently Building
+
+> 🏢 **[ImpulsoLead](https://impulsolead.com)** · AI agent platform that generates ads, captures leads, and qualifies them automatically for Brazilian real estate agents. Built on Next.js, tRPC, Prisma, BullMQ, and the Claude SDK.
+
+> 🔎 **ImpulsoSearch** · AI-powered semantic real estate search with consultant personas (Sofia, Bruno, Luna, Rafael), powered by pgvector and the Claude SDK.
+
+---
+
+## GitHub
+
+<p>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alexdesouza&show_icons=true&hide_border=true&title_color=D4841A&icon_color=D4841A&text_color=E5E5E5&bg_color=0A0A0A" height="165">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdesouza&layout=compact&hide_border=true&title_color=D4841A&text_color=E5E5E5&bg_color=0A0A0A" height="165">
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed and built by Alex DeSouza · © 2026 · Open to AI engineering collaborations and real estate tech partnerships</sub>
+</p>
