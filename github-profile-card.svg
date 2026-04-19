@@ -1,0 +1,156 @@
+<svg viewBox="0 0 1600 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex DeSouza - Full-Stack Developer and AI Engineer, Founder at ImpulsoLead">
+  <defs>
+    <!-- Subtle dot grid pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#D4841A" fill-opacity="0.11"/>
+    </pattern>
+
+    <!-- Radial glow behind Alex wordmark -->
+    <radialGradient id="alexGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D4841A" stop-opacity="0.45"/>
+      <stop offset="45%" stop-color="#D4841A" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#D4841A" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Bottom-left ambient warmth -->
+    <radialGradient id="bottomGlow" cx="0%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#D4841A" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#D4841A" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Soft top-right vignette -->
+    <radialGradient id="topRightGlow" cx="100%" cy="0%" r="40%">
+      <stop offset="0%" stop-color="#D4841A" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#D4841A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ==================== BACKGROUND LAYERS ==================== -->
+  <rect width="1600" height="640" fill="#0A0A0A"/>
+  <rect width="1600" height="640" fill="url(#dotGrid)"/>
+  <rect width="1600" height="640" fill="url(#bottomGlow)"/>
+  <rect width="1600" height="640" fill="url(#topRightGlow)"/>
+
+  <!-- Amber glow behind Alex wordmark -->
+  <ellipse cx="345" cy="200" rx="360" ry="130" fill="url(#alexGlow)"/>
+
+  <!-- ==================== IMPULSOLEAD BRAND (TOP RIGHT) ==================== -->
+  <g transform="translate(1438, 58)">
+    <g fill="#D4841A">
+      <circle cx="0" cy="0" r="3"/>
+      <circle cx="13" cy="0" r="3"/>
+      <circle cx="26" cy="0" r="3"/>
+      <circle cx="0" cy="13" r="3"/>
+      <circle cx="13" cy="13" r="3"/>
+      <circle cx="26" cy="13" r="3"/>
+      <circle cx="0" cy="26" r="3"/>
+      <circle cx="13" cy="26" r="3"/>
+      <circle cx="26" cy="26" r="3"/>
+    </g>
+    <text x="50" y="14" font-family="'Playfair Display', 'Cormorant Garamond', Georgia, serif" font-style="italic" font-weight="700" font-size="22" fill="#FFFFFF">impulso</text>
+    <text x="50" y="33" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10" fill="#D4841A" letter-spacing="5" font-weight="600">LEAD</text>
+  </g>
+
+  <!-- ==================== LEFT COLUMN ==================== -->
+
+  <!-- Alex wordmark: soft back glow copy -->
+  <text x="78" y="250" font-family="'Playfair Display', 'Cormorant Garamond', Georgia, 'Times New Roman', serif"
+        font-weight="700" font-style="italic" font-size="210" fill="#D4841A" fill-opacity="0.22">Alex</text>
+  <!-- Alex wordmark: main -->
+  <text x="80" y="248" font-family="'Playfair Display', 'Cormorant Garamond', Georgia, 'Times New Roman', serif"
+        font-weight="700" font-style="italic" font-size="210" fill="#D4841A">Alex</text>
+
+  <!-- ESTGA caption -->
+  <text x="88" y="295" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace"
+        font-size="14" fill="#D4841A" fill-opacity="0.78" letter-spacing="5" font-weight="500">ESTGA · UNIVERSIDADE DE AVEIRO</text>
+
+  <!-- Title -->
+  <text x="80" y="385" font-family="'Playfair Display', 'Cormorant Garamond', Georgia, serif"
+        font-weight="700" font-size="46" fill="#FFFFFF">Full-Stack Developer &amp;</text>
+  <text x="80" y="438" font-family="'Playfair Display', 'Cormorant Garamond', Georgia, serif"
+        font-weight="700" font-size="46" fill="#FFFFFF">AI Engineer</text>
+
+  <!-- Subtitle -->
+  <text x="80" y="478" font-family="'Playfair Display', 'Cormorant Garamond', Georgia, serif"
+        font-weight="600" font-size="20" fill="#D4841A">Founder @ ImpulsoLead · Microsoft · IBM · NASA Certified</text>
+
+  <!-- Tech pills -->
+  <g font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#D4841A">
+    <g>
+      <rect x="80" y="510" width="88" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="124" y="532" text-anchor="middle">Next.js</text>
+    </g>
+    <g>
+      <rect x="178" y="510" width="112" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="234" y="532" text-anchor="middle">TypeScript</text>
+    </g>
+    <g>
+      <rect x="300" y="510" width="112" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="356" y="532" text-anchor="middle">Claude SDK</text>
+    </g>
+    <g>
+      <rect x="422" y="510" width="80" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="462" y="532" text-anchor="middle">Prisma</text>
+    </g>
+    <g>
+      <rect x="512" y="510" width="72" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="548" y="532" text-anchor="middle">Redis</text>
+    </g>
+    <g>
+      <rect x="594" y="510" width="72" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="630" y="532" text-anchor="middle">tRPC</text>
+    </g>
+  </g>
+
+  <!-- ==================== DIVIDER ==================== -->
+  <line x1="860" y1="125" x2="860" y2="570" stroke="#D4841A" stroke-opacity="0.28" stroke-width="1"/>
+
+  <!-- ==================== RIGHT COLUMN ==================== -->
+
+  <!-- CERTIFICATIONS -->
+  <text x="915" y="170" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace"
+        font-size="14" fill="#D4841A" letter-spacing="6" font-weight="600">CERTIFICATIONS</text>
+
+  <g font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" fill="#FFFFFF">
+    <circle cx="925" cy="210" r="3" fill="#D4841A"/>
+    <text x="942" y="215">Microsoft Full-Stack Developer</text>
+
+    <circle cx="925" cy="245" r="3" fill="#D4841A"/>
+    <text x="942" y="250">Microsoft Cybersecurity Analyst</text>
+
+    <circle cx="925" cy="280" r="3" fill="#D4841A"/>
+    <text x="942" y="285">IBM Generative AI</text>
+
+    <circle cx="925" cy="315" r="3" fill="#D4841A"/>
+    <text x="942" y="320">Duke University MLOps</text>
+
+    <circle cx="925" cy="350" r="3" fill="#D4841A"/>
+    <text x="942" y="355">NASA Open Science 101</text>
+
+    <circle cx="925" cy="385" r="3" fill="#D4841A"/>
+    <text x="942" y="390">UoL Essential Mathematics</text>
+  </g>
+
+  <!-- BUILDING -->
+  <text x="915" y="455" font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace"
+        font-size="14" fill="#D4841A" letter-spacing="6" font-weight="600">BUILDING</text>
+
+  <g font-family="'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13" fill="#D4841A">
+    <g>
+      <rect x="915" y="482" width="112" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="971" y="504" text-anchor="middle">B2B SaaS</text>
+    </g>
+    <g>
+      <rect x="1037" y="482" width="156" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="1115" y="504" text-anchor="middle">Real Estate Tech</text>
+    </g>
+    <g>
+      <rect x="915" y="526" width="112" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="971" y="548" text-anchor="middle">AI Agents</text>
+    </g>
+    <g>
+      <rect x="1037" y="526" width="130" height="34" rx="17" fill="none" stroke="#D4841A" stroke-opacity="0.55"/>
+      <text x="1102" y="548" text-anchor="middle">Claude SDK</text>
+    </g>
+  </g>
+</svg>
