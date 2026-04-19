@@ -115,15 +115,6 @@ I build AI-powered B2B SaaS for the Brazilian real estate market.
 
 ---
 
-## GitHub
-
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alexdesouza&show_icons=true&hide_border=true&title_color=D4841A&icon_color=D4841A&text_color=E5E5E5&bg_color=0A0A0A" height="165">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdesouza&layout=compact&hide_border=true&title_color=D4841A&text_color=E5E5E5&bg_color=0A0A0A" height="165">
-</p>
-
----
-
 <p align="center">
   <sub>Designed and built by Alex DeSouza · © 2026 · Open to AI engineering collaborations and real estate tech partnerships</sub>
 </p>
