@@ -2,7 +2,7 @@
   <img src="./github-profile-card.svg" alt="Alex DeSouza · Full-Stack Developer & AI Engineer · Founder @ ImpulsoLead" width="100%" />
 </p>
 
-<h1 align="center">Alex DeSouza</h1>
+<h1 align="center">Alex De Souza</h1>
 
 <p align="center">
   <strong>Full-Stack Developer & AI Engineer · Founder @ ImpulsoLead</strong><br/>
