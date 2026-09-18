@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer & AI Engineer · CTO @ ImpulsoLead</strong><br/>
+  <strong>Full-Stack Developer & AI Engineer · Founding Engineer @ ImpulsoLead</strong><br/>
   Claude SDK · Next.js · SaaS · Microsoft & IBM & NASA Certified<br/>
   ESTGA · Universidade de Aveiro 🇵🇹
 </p>
@@ -13,18 +13,6 @@
   <a href="https://www.linkedin.com/in/alexandre-de-souza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex_De_Souza-D4841A?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"></a>
   <a href="mailto:contact@alexsouza.dev"><img alt="Email" src="https://img.shields.io/badge/Email-contact@alexsouza.dev-D4841A?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"></a>
 </p>
-
----
-
-## About
-
-I build AI-powered B2B SaaS for the Brazilian real estate market.
-
-- 🚀 **CTO** at [ImpulsoLead](https://impulsolead.com), an AI agent platform that generates ads, captures leads, and qualifies them automatically for real estate agents.
-- 🤖 Shipping production systems on the **Anthropic Claude SDK**, **Next.js App Router**, **tRPC**, **Prisma**, and **BullMQ**.
-- 🎓 Studying **Systems and Network Programming** at ESTGA, Universidade de Aveiro.
-- 🇵🇹 Based near Aveiro, Portugal. Fluent in Portuguese and English.
-- ☕ Turning caffeine into production-grade code.
 
 ---
 
